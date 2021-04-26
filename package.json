@@ -19,7 +19,7 @@
     "gatsby-plugin-offline": "^3.0.16",
     "gatsby-plugin-react-helmet": "^3.1.13",
     "gatsby-plugin-root-import": "^2.0.6",
-    "gatsby-plugin-sharp": "^2.14.1",
+    "gatsby-plugin-sharp": "^3.3.1",
     "gatsby-source-filesystem": "^3.3.0",
     "gatsby-source-shopify": "^4.3.0",
     "gatsby-transformer-sharp": "^3.3.0",
